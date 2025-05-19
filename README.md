@@ -1,3 +1,3 @@
 # mi-primer-proyecto
 ## Este es mi primer proyecto
-### Hecho desde gitHub
+### Hecho desde GitHub
